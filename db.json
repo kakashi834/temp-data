@@ -1,0 +1,357 @@
+{
+  "roles": {
+    "data": [
+      {
+        "id": "d8d7410c755e",
+        "unique_id": "d8d7410c755e",
+        "company_id": 1,
+        "job_family_id": 0,
+        "name": "Frontend Engineer",
+        "priority": 0,
+        "seniority": 0,
+        "aliases": "",
+        "archived_at": "",
+        "skills": [
+          {
+            "id": "qwe8we76rwe7",
+            "unique_id": "qwe8we76rwe7",
+            "name": "React",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "trwfd43ds32de",
+            "unique_id": "trwfd43ds32de",
+            "name": "React",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "qwe8dsf76rwe7",
+            "unique_id": "qwe8dsf76rwe7",
+            "name": "Javascript",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "kjewr873jk223",
+            "unique_id": "kjewr873jk223",
+            "name": "CSS",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "qwrdfsdsd231q",
+            "unique_id": "qwrdfsdsd231q",
+            "name": "HTML",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          }
+        ]
+      },
+      {
+        "id": "vcbn43bnmb534",
+        "unique_id": "vcbn43bnmb534",
+        "company_id": 1,
+        "job_family_id": 0,
+        "name": "Senior Backend Engineer",
+        "priority": 0,
+        "seniority": 0,
+        "aliases": "",
+        "archived_at": "",
+        "skills": [
+          {
+            "id": "asvwe3ew2we1",
+            "unique_id": "asvwe3ew2we1",
+            "name": "SQL",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "fdshdfer34er3",
+            "unique_id": "fdshdfer34er3",
+            "name": "System Design",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "oiuwej8k3k3k3",
+            "unique_id": "oiuwej8k3k3k3",
+            "name": "Low Level Design",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "kwek232kjb3k",
+            "unique_id": "kwek232kjb3k",
+            "name": "High Level Design",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          }
+        ]
+      },
+      {
+        "id": "uoi32ui23we2",
+        "unique_id": "uoi32ui23we2",
+        "company_id": 1,
+        "job_family_id": 0,
+        "name": "Python Developer",
+        "priority": 0,
+        "seniority": 0,
+        "aliases": "",
+        "archived_at": "",
+        "skills": [
+          {
+            "id": "asdf89dsf9",
+            "unique_id": "asdf89dsf9",
+            "name": "Python",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "er89ew6ewew",
+            "unique_id": "er89ew6ewew",
+            "name": "Data Structures",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "oipuer23i2o",
+            "unique_id": "oipuer23i2o",
+            "name": "Flast",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          }
+        ]
+      },
+      {
+        "id": "piowur908we89",
+        "unique_id": "piowur908we89",
+        "company_id": 1,
+        "job_family_id": 0,
+        "name": "Senior Devops Engineer",
+        "priority": 0,
+        "seniority": 0,
+        "aliases": "",
+        "archived_at": "",
+        "skills": [
+          {
+            "id": "df87sd8sd87",
+            "unique_id": "df87sd8sd87",
+            "name": "Docker",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "hjg4hj324j2wr",
+            "unique_id": "hjg4hj324j2wr",
+            "name": "Kubernetes",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "pohivb3k3kff",
+            "unique_id": "pohivb3k3kff",
+            "name": "AWS",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "hkjd0d89we9w",
+            "unique_id": "hkjd0d89we9w",
+            "name": "Linux",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          }
+        ]
+      },
+      {
+        "id": "uioyer32jh23",
+        "unique_id": "uioyer32jh23",
+        "company_id": 1,
+        "job_family_id": 0,
+        "name": ".Net Developer",
+        "priority": 0,
+        "seniority": 0,
+        "aliases": "",
+        "archived_at": "",
+        "skills": [
+          {
+            "id": "sdf907sd89d",
+            "unique_id": "sdf907sd89d",
+            "name": "C#",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "asdfq3frw34r",
+            "unique_id": "asdfq3frw34r",
+            "name": ".NET Core",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "sdf89we7rwe",
+            "unique_id": "sdf89we7rwe",
+            "name": "Entity Framework",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "iuoqwegvb34bj4",
+            "unique_id": "iuoqwegvb34bj4",
+            "name": "Unit Testing",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "ghjk89ds789d",
+            "unique_id": "ghjk89ds789d",
+            "name": "SQL",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "poi3ip342hee",
+            "unique_id": "poi3ip342hee",
+            "name": "OOPS",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          }
+        ]
+      }
+    ]
+  }
+}
