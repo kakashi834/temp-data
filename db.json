@@ -79,6 +79,71 @@
           }
         ]
       },
+      {
+        "id": "vcbn43bnmb534",
+        "unique_id": "vcbn43bnmb534",
+        "company_id": 1,
+        "job_family_id": 0,
+        "name": "Senior Backend Engineer",
+        "priority": 0,
+        "seniority": 0,
+        "aliases": "",
+        "archived_at": "",
+        "skills": [
+          {
+            "id": "asvwe3ew2we1",
+            "unique_id": "asvwe3ew2we1",
+            "name": "SQL",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "fdshdfer34er3",
+            "unique_id": "fdshdfer34er3",
+            "name": "System Design",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "oiuwej8k3k3k3",
+            "unique_id": "oiuwej8k3k3k3",
+            "name": "Low Level Design",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          },
+          {
+            "id": "kwek232kjb3k",
+            "unique_id": "kwek232kjb3k",
+            "name": "High Level Design",
+            "company_id": 0,
+            "description": "string",
+            "proficiency": 0,
+            "cluster": "Unknown Type: enum",
+            "seniority": 0,
+            "parent_skill_id": 0,
+            "archived_at": "Unknown Type: timestamp",
+            "similar_skills": ["string"]
+          }
+        ]
+      }
     ]
   }
 }
