@@ -2,178 +2,122 @@
   "roles": {
     "data": [
       {
-        "id": "983e9336c2a2",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/983e9336c2a2"
-        },
-        "attributes": {
-          "name": ".NET Developer"
-        }
+        "id": "d8d7410c755e",
+        "name": "Frontend Engineer",
+        "skills": [
+          {
+            "id": "qwe8we76rwe7",
+            "name": "React"
+          },
+          {
+            "id": "trwfd43ds32de",
+            "name": "React"
+          },
+          {
+            "id": "qwe8dsf76rwe7",
+            "name": "Javascript"
+          },
+          {
+            "id": "kjewr873jk223",
+            "name": "CSS"
+          },
+          {
+            "id": "qwrdfsdsd231q",
+            "name": "HTML"
+          }
+        ]
       },
       {
-        "id": "222b65bf40e2",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/222b65bf40e2"
-        },
-        "attributes": {
-          "name": "Python Developer (Django)"
-        }
+        "id": "vcbn43bnmb534",
+        "name": "Senior Backend Engineer",
+        "skills": [
+          {
+            "id": "asvwe3ew2we1",
+            "name": "SQL"
+          },
+          {
+            "id": "fdshdfer34er3",
+            "name": "System Design"
+          },
+          {
+            "id": "oiuwej8k3k3k3",
+            "name": "Low Level Design"
+          },
+          {
+            "id": "kwek232kjb3k",
+            "name": "High Level Design"
+          }
+        ]
       },
       {
-        "id": "83195ed118bc",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/83195ed118bc"
-        },
-        "attributes": {
-          "name": "Latest Senior Role2"
-        }
+        "id": "uoi32ui23we2",
+        "name": "Python Developer",
+        "skills": [
+          {
+            "id": "asdf89dsf9",
+            "name": "Python"
+          },
+          {
+            "id": "er89ew6ewew",
+            "name": "Data Structures"
+          },
+          {
+            "id": "oipuer23i2o",
+            "name": "Flast"
+          }
+        ]
       },
       {
-        "id": "96177ed5bb0e",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/96177ed5bb0e"
-        },
-        "attributes": {
-          "name": "Manager"
-        }
+        "id": "piowur908we89",
+        "name": "Senior Devops Engineer",
+        "skills": [
+          {
+            "id": "df87sd8sd87",
+            "name": "Docker"
+          },
+          {
+            "id": "hjg4hj324j2wr",
+            "name": "Kubernetes"
+          },
+          {
+            "id": "pohivb3k3kff",
+            "name": "AWS"
+          },
+          {
+            "id": "hkjd0d89we9w",
+            "name": "Linux"
+          }
+        ]
       },
       {
-        "id": "102935dbe616",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/102935dbe616"
-        },
-        "attributes": {
-          "name": "New role invalidate"
-        }
-      },
-      {
-        "id": "b205b625d84d",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/b205b625d84d"
-        },
-        "attributes": {
-          "name": "New Role10"
-        }
-      },
-      {
-        "id": "02266f41b77f",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/02266f41b77f"
-        },
-        "attributes": {
-          "name": "NewRole"
-        }
-      },
-      {
-        "id": "9d01629c89b8",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/9d01629c89b8"
-        },
-        "attributes": {
-          "name": "Node Developer"
-        }
-      },
-      {
-        "id": "84d035cd6b13",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/84d035cd6b13"
-        },
-        "attributes": {
-          "name": "Node Developer, Senior"
-        }
-      },
-      {
-        "id": "a1a6bcd540e2",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/a1a6bcd540e2"
-        },
-        "attributes": {
-          "name": "Python Developer (Django)"
-        }
-      },
-      {
-        "id": "cccd17f443d4",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/cccd17f443d4"
-        },
-        "attributes": {
-          "name": "rolewithskills6"
-        }
-      },
-      {
-        "id": "a283f20d1476",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/a283f20d1476"
-        },
-        "attributes": {
-          "name": "Ruby On Rails Developer"
-        }
-      },
-      {
-        "id": "d00409719006",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/d00409719006"
-        },
-        "attributes": {
-          "name": "SDET Director"
-        }
-      },
-      {
-        "id": "dd3bfac1671f",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/dd3bfac1671f"
-        },
-        "attributes": {
-          "name": "Software Engineer"
-        }
-      },
-      {
-        "id": "f134636929b1",
-        "type": "roles",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/roles/f134636929b1"
-        },
-        "attributes": {
-          "name": "Software Engineer Intern"
-        }
-      }
-    ]
-  },
-  "roleInfo": {
-    "data": {
-      "id": "983e9336c2a2",
-      "type": "roles",
-      "links": {
-        "self": "https://rsa3.private.hackerrank.link/api/v2/roles/983e9336c2a2"
-      },
-      "attributes": {
-        "name": ".NET Developer"
-      }
-    },
-    "included": [
-      {
-        "id": "3eb9c2cbaeb4",
-        "type": "skills",
-        "links": {
-          "self": "https://rsa3.private.hackerrank.link/api/v2/skills/3eb9c2cbaeb4"
-        },
-        "attributes": {
-          "name": "Distributed Systems Concepts"
-        }
+        "id": "uioyer32jh23",
+        "name": ".Net Developer",
+        "skills": [
+          {
+            "id": "sdf907sd89d",
+            "name": "C#"
+          },
+          {
+            "id": "asdfq3frw34r",
+            "name": ".NET Core"
+          },
+          {
+            "id": "sdf89we7rwe",
+            "name": "Entity Framework"
+          },
+          {
+            "id": "iuoqwegvb34bj4",
+            "name": "Unit Testing"
+          },
+          {
+            "id": "ghjk89ds789d",
+            "name": "SQL"
+          },
+          {
+            "id": "poi3ip342hee",
+            "name": "OOPS"
+          }
+        ]
       }
     ]
   }
